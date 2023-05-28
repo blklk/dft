@@ -1,2 +1,2 @@
 # dft
-Castep files for DFT calculation in steps
+Castep files for DFT EOS
