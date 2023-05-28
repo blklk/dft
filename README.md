@@ -1,2 +1,4 @@
 # dft
-Castep files for DFT EOS
+
+Castep files for beginning DFT calculations.
+Goal: obtain EOS (P-V; P-V-T)
